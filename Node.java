@@ -4,6 +4,7 @@
  * @author Brian S. Borowski
  * @version 1.1 February 17, 2024
  */
+
 public class Node<K, V> extends Entry<K, V> {
     private Node<K, V> left, right, parent;
 

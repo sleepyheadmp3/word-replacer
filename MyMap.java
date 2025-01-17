@@ -1,9 +1,11 @@
 import java.util.Iterator;
+
 /**
  * Interface for a collection that maps keys to values.
  * @author Brian S. Borowski
  * @version 1.0 October 19, 2022
  */
+
 public interface MyMap<K, V> {
 
     /**

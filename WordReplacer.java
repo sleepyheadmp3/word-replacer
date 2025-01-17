@@ -8,6 +8,7 @@ import java.io.BufferedReader;
  * @author Jennifer Fu
  * @version 1.0 December 15, 2024
  */
+
 public class WordReplacer {
     private static MyMap<String, String> ruleMap = new MyHashMap<>();
     private static MyMap<String, String> map;

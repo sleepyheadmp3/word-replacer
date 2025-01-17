@@ -7,6 +7,7 @@ import java.util.List;
  * Adapted to this project by Brian S. Borowski on October 19, 2022.
  * Last modified on February 17, 2024.
  */
+
 public class BinarySearchTreePrinter<K, V> {
     private static final int GAP = 1;
     private List<Integer> leftProfile, rightProfile;

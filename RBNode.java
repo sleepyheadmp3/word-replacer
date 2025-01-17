@@ -5,6 +5,7 @@
  * @author Brian S. Borowski
  * @version 1.0 February 17, 2024
  */
+
 public class RBNode<K, V> extends Node<K, V> {
     public final static byte BLACK = 0, RED = 1;
     public final static String[] COLOR = {"B", "R"};
